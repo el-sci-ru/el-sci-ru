@@ -1,6 +1,9 @@
-### Dataset statistics
-- Number of texts: 136
-- Number of tokens: 12 809
-- Number of terms: 2 028
-- Number of links with Wikidata: 938
-- Number of relations: 356
+### Train and test statistics
+
+| Number | Train | Test  |
+| ------- | ------- |-------|
+| Texts | 136 | 80 |
+| Tokens | 12,809 | 11,157 |
+| Terms | 2,028 | 3,386 |
+| Links to Wikidata | 938 | 1,337 |
+
